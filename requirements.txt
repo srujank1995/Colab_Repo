@@ -1,0 +1,5 @@
+ipykernel
+Pandas
+numpy
+kagglehub
+sklearn

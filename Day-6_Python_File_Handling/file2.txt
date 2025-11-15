@@ -1,0 +1,3 @@
+queries. We’re responsible for supporting the servers, cloud services, network, and storage devices
+across all of Comscore’s data centers and cloud environments, and responding to both internal and
+client queries 24/7.

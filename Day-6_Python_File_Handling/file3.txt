@@ -1,0 +1,6 @@
+Comscore is looking for a new Systems Engineer for the Command Center team to provide 24x7 support.
+The Command Center team is the group of our Engineers that keep Comscore’s Products and
+Infrastructure running – By tracking and resolving issues, supporting systems, and responding to client
+/nqueries. We’re responsible for supporting the servers, cloud services, network, and storage devices
+across all of Comscore’s data centers and cloud environments, and responding to both internal and
+client queries 24/7./n
